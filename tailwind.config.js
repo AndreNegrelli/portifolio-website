@@ -13,5 +13,5 @@ module.exports = {
       'lg': '1200px'
     }
   },
-  plugins: [],
+  plugins: [require('daisyui'),],
 }
